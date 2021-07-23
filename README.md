@@ -1,3 +1,3 @@
 # sample-repo
 For Git training
-add 1 test
+modified a comment on 'update-readme'
